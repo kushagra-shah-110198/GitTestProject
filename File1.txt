@@ -1,7 +1,9 @@
 Hello World!!!
 
-Change - for login feature
+Change -> for login feature
 
-change - payment features
+change -> payment features
 
-change - to fix bug1
+change -> to fix bug1
+
+change - to fix bug2
