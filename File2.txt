@@ -3,3 +3,7 @@ Code for new feature implementation
 change for remote repository
 
 change 1 is by team member in local machine to remote repo
+
+change 2 is by team mate from local to remote
+
+cahnge 3 by some other on remote to see on local
